@@ -1,4 +1,4 @@
-import { useState, useEffect, createContext } from "react";
+import { useState, createContext } from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 import NavBar from "./components/nav/NavBar";
